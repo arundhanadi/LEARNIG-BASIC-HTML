@@ -1,0 +1,21 @@
+<p>	</p>	This tag allows you to create paragraphs	
+My name is Fred.
+I live in Medway
+
+<h1>	</h1>	This is the largest heading	
+Heading 1
+<h2>	</h2>	This is second biggest heading	
+Heading 2
+<h3>	</h3>	This is the next heading	
+Heading 3
+<h4>	</h4>	This is another heading	
+Heading 4
+<h5>	</h5>	This is the second smallest heading	
+Heading 5
+<h6>	</h6>	This is the smallest heading	
+Heading 6
+<hr >	n/a	This is a horizontal line. You can use width and size attributes	
+<b>	</b>	This makes text bold	Bold text
+<i>	</i>	This makes text italic	Italic text
+<br />	n/a	This tag allows you to insert line breaks	abc
+def
